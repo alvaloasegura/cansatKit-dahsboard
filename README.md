@@ -1,4 +1,4 @@
-# cansatKit-dahsboard source code
+# CansatKit-dahsboard source code
 - Visual Studio 2022.
 - Windows Forms.
 - C#.
